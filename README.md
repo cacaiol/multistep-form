@@ -16,7 +16,7 @@
 <h3 align="center">Multistep Form</h3>
 
   <p align="center">
-    Um formulário divido em varias etapas.
+    Um formulário de avaliações divido por etapas.
     <br />
     <a href="https://github.com/cacaiol/multistep-form"><strong>Explore the docs »</strong></a>
     <br />
@@ -56,11 +56,13 @@
 ## Sobre o Projeto
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107950801/2017075-d6138ebb-0b9f-47dd-badb-12303ccb5c6c.png" width="900px">
+<img src="https://user-images.githubusercontent.com/107950801/205970569-859a6edb-eb46-4999-90b6-c7c2e4d606ab.png" width="500px">
+<img src="https://user-images.githubusercontent.com/107950801/205970582-0fe691d6-f9a1-422b-b55b-3ebcbc422b2c.png" width="500px">
+<img src="https://user-images.githubusercontent.com/107950801/205970594-5ff9bd91-6526-450c-8dcb-7417c4418815.png" width="500px">
 </div>
 <br/>
 
-           A representação de um formulário com multiplas etapas e validações de campos.  
+           A representação de um formulário de avaliações com multiplas etapas e validações de campos.  
 
 ### Construído com
 
@@ -82,20 +84,18 @@ Este é um exemplo de como listar as coisas que você precisa para usar o softwa
 
 ### Instalação
 
-<!---- 1. Get a free API Key at [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/cacaiol/catalog-movies
+   git clone https://github.com/cacaiol/multistep-form
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
-   npm install react-icons react-router-dom
+   npm install react-icons 
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
----->
+3. Start the application 
+    ```sh
+    npm run dev
+     ```
 
 <!-- CONTRIBUTING -->
 ## Contribuição
